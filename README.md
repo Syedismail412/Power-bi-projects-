@@ -52,3 +52,115 @@ Trend Identification: Spot historical patterns in sales to forecast future deman
 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d480cc17-e8a7-47a0-8b2f-839278a70501" />
+
+# 🏏 Project-2: Power BI Cricket Analytics Dashboard
+
+## 📊 Project Overview
+
+This project dives into sports analytics using **Power BI**, focusing on cricket match data to uncover key performance patterns, team dynamics, and venue-based outcomes.  
+The goal was to transform raw cricket statistics into an **interactive, insight-rich dashboard** that allows users to explore team performance, match outcomes, and average scoring trends across multiple dimensions.
+
+The final dashboard is designed to support **data-driven cricket insights** — enabling comparisons between teams, identifying consistent performers, and understanding how venues impact match results.
+
+---
+
+## 🧰 Tools & Technology
+
+**Platform:** Microsoft Power BI Desktop  
+**Data Modeling:** Relational modeling between match, team, and venue tables  
+**Language:** Data Analysis Expressions (DAX) for creating calculated measures such as total runs, wickets, and averages  
+
+---
+
+## 🧾 Dataset
+
+The dashboard is built using a **self-created dataset inspired by IPL match data**. It simulates real-world cricket statistics for practice in analytics and visualization.
+
+**Key Metrics:**
+- Total Runs  
+- Total Matches  
+- Total Wickets  
+- Average Runs per Match  
+
+**Dimensions:**
+- Team  
+- Venue  
+- Match Winner  
+- Match ID  
+
+---
+
+## 📈 Dashboard Highlights
+
+The dashboard layout was crafted for clarity and quick insights, featuring a balanced mix of KPIs, visuals, and filters:
+
+### 🏏 Key Metrics Header
+A top-level summary displaying:
+- **Total Runs:** 6,542  
+- **Total Matches:** 74  
+- **Total Wickets:** 872  
+- **Average Runs per Match:** 88.41  
+
+### 📊 Team Performance Analysis (Left Section)
+Bar charts showing:
+- **Total Runs by Team**  
+- **Total Wins by Team**  
+Allowing instant comparison of team strengths across the league.
+
+### 📋 Team Comparison Matrix (Center)
+A matrix table comparing **team-wise performance statistics** across all matches — ideal for analysts to assess consistency.
+
+### 🥧 Win Distribution (Right Section)
+A donut chart breaking down **wins by team**, highlighting which teams dominated overall.
+
+### 🎛 Interactive Filters (Sidebar)
+Dynamic slicers to filter data by:
+- **Venue** (e.g., Eden Gardens, M. Chinnaswamy Stadium)
+- **Team** (CSK, RCB, GT, etc.)
+These allow users to perform **deep-dive analysis** at the venue or team level.
+
+---
+
+## 📌 Key Analysis & Insights
+
+This dashboard provides a deeper understanding of cricket performance metrics:
+
+### 🏆 Team Performance
+- CSK, GT, and PBKS emerged as top-performing teams in terms of wins.  
+- Strong run aggregates indicate consistent batting performance.
+
+### 🏟 Venue Impact
+- Venue filters help identify stadiums where teams perform better — a valuable insight for strategizing future matches.
+
+### 📉 Match Statistics
+- On average, 88.41 runs per match were scored across 74 matches, reflecting competitive consistency.  
+- Teams with higher win counts also correlate with higher total runs — showing the impact of strong batting line-ups.
+
+---
+
+## 💡 Learning Outcomes
+
+This project helped strengthen skills in:
+- Building interactive and user-friendly dashboards  
+- Applying DAX to calculate KPIs and averages  
+- Designing performance-based visuals  
+- Creating relationships between multiple tables  
+- Analyzing sports data for actionable insights  
+
+---
+
+## 🔮 Future Enhancements
+
+- **Player Performance Dashboard:** Analyze individual batting, bowling, and strike rate metrics  
+- **Season-wise Analysis:** Compare team performances across multiple tournaments  
+- **Live Data Integration:** Connect APIs for real-time cricket match updates  
+
+2. 🎓 **Next Project: Student Performance Dashboard (Coming Soon)**  
+   → Analyze academic performance, attendance impact, and subject-wise outcomes  
+
+⭐ *If you found this project helpful, consider giving it a star on GitHub to support my work!* 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a31b7bde-cb8d-43da-99e5-7a01a15ec23a" />
+
+
+
