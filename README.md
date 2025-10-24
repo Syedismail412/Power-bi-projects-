@@ -1,4 +1,4 @@
-Project-2: Power BI Sales and Customer Analytics Dashboard
+Project-1: Power BI Sales and Customer Analytics Dashboard
 
 📊 Project Overview
 
