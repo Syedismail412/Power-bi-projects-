@@ -164,3 +164,67 @@ This project helped strengthen skills in:
 
 
 
+# 🎓 Power BI Project #3 — Students Performance Dashboard
+
+## 📊 Project Overview
+This Power BI project focuses on analyzing **student performance** data by integrating multiple factors such as **attendance, study hours, parental education,** and **extracurricular participation**.  
+The goal is to uncover insights that help **educators and institutions** understand what truly influences academic success.
+
+---
+
+## 🚀 Objective
+To analyze how **attendance rates, study habits, and demographic factors** impact students’ final academic scores and pass/fail outcomes.
+
+---
+
+## 🧠 Key Insights
+- **Class-wise Performance:** Grade 11 students recorded the highest total scores, showing consistent performance across subjects.  
+- **Pass vs Fail Ratio:** Out of the total students analyzed, **96.6% passed**, while **only 3.4% failed**, indicating strong academic outcomes.  
+- **Attendance Matters:** Students with **higher attendance percentages** achieve **better final scores**.  
+- **Parental Education Influence:** Students whose parents hold **postgraduate degrees** tend to score higher.  
+- **Study Hours Trend:** Academic performance peaks for students studying between **10–15 hours/week**, after which performance levels off.
+
+---
+
+## 🧩 Dashboard Features
+✅ Interactive filters for **Class, Gender, Age, and Extracurricular activities**  
+✅ Multiple visualization types – **bar charts, line charts, donut charts**  
+✅ **Color-coded sections** for better readability and segmentation  
+✅ Clean, **user-friendly Power BI interface**  
+
+---
+
+## 🛠️ Tools & Skills Used
+| Tool / Skill | Description |
+|---------------|-------------|
+| **Power BI Desktop** | Data modeling, dashboard creation |
+| **Power Query** | Data cleaning and transformation |
+| **DAX** | Created measures like Average Score and Pass Rate |
+| **Excel** | Preprocessing (duplicate removal, data validation) |
+
+---
+
+## 🎯 Outcome
+This dashboard enables educators to make **data-driven decisions** by identifying performance trends, attendance impact, and areas for improvement.  
+It demonstrates how effective visualization can simplify educational data insights.
+
+---
+
+
+## 💬 Next Step
+4️⃣ **Health Care Analytics Dashboard** — Focused on monitoring **patient and hospital KPIs** to improve healthcare efficiency and decision-making. 
+
+---
+
+### 🏷️ Tags
+`#PowerBI` `#DataAnalytics` `#EducationAnalytics` `#DataVisualization` `#MicrosoftPowerBI` `#AnalyticsProject` `#LearningJourney`
+
+---
+
+⭐ *If you found this project useful, don’t forget to star the repository!*
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d0882761-7fa8-4713-9a0c-e79509ab4fbb" />
+
+
+
+
