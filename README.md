@@ -227,4 +227,80 @@ It demonstrates how effective visualization can simplify educational data insigh
 
 
 
+#🏥 Power BI Project #4 — Health Care Analytics Dashboard
+
+
+#📊 Project Overview
+
+
+
+This Power BI project focuses on analyzing hospital performance and patient outcomes by monitoring key metrics such as admissions, procedures, deaths, satisfaction scores, and financial data.
+The goal is to help healthcare professionals and administrators make data-driven decisions to improve hospital efficiency and patient care.
+
+🚀 Objective
+
+To design a Power BI dashboard that tracks and visualizes key hospital KPIs, providing a complete view of operations, patient satisfaction, and financial performance.
+
+#🧠 Key Insights
+
+Department Overview: Cardiology, Emergency, and Orthopedics recorded the highest admission counts, reflecting heavy patient flow.
+
+Patient Outcomes: High recovery rate with minimal mortality — showing strong hospital performance.
+
+Financial Insights: Comparison between Total Cost and Paid Amount highlights billing efficiency and potential gaps.
+
+Satisfaction Score: An average rating of 3.5/7 indicates opportunities to enhance patient experience.
+
+Demographics: Balanced gender distribution across departments reveals equitable patient engagement.
+
+
+#🧩 Dashboard Features
+
+✅ KPI Cards displaying Admissions, Procedures, Deaths, Total Cost, and Average Satisfaction
+
+✅ Bar Charts for Department-wise Admissions and Financial metrics
+
+✅ Donut Charts for Outcome and Gender Distribution
+
+✅ Gauge Chart for Average Satisfaction Score
+
+✅ Interactive Filters (Department, Outcome, Doctor) for dynamic analysis
+
+✅ Clean, color-coded layout for better storytelling and readability
+
+#🛠️ Tools & Skills Used
+
+Tool / Skill	Description
+
+Power BI Desktop	Data modeling, dashboard creation, KPI visuals
+
+Power Query	Data cleaning, transformation, and integration
+
+DAX	Created calculated measures for KPIs and satisfaction analysis
+
+Excel	Data preprocessing and validation
+
+#🎯 Outcome
+
+This dashboard provides a 360° view of hospital operations, helping management to:
+
+Track patient admissions and outcomes
+
+Monitor financial health by department
+
+Evaluate performance and satisfaction levels
+
+Support healthcare planning through insights
+
+💬 Next Step
+
+5️⃣ Social Media Analytics Dashboard 📱 — Analyze engagement and growth trends to uncover actionable insights and improve digital performance through data visualization.
+
+
+🏷️ Tags
+
+#PowerBI #DataAnalytics #HealthcareAnalytics #DataVisualization #MicrosoftPowerBI #AnalyticsProject #LearningJourney #BusinessIntelligence
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7742faf1-9804-4fc9-8326-6f69d9acbae4" />
 
